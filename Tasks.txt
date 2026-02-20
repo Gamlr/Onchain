@@ -1,0 +1,39 @@
+for GPT Codex:
+"Editar formatos de arquivo
+avatar.png
+PNG
+A imagem do avatar usada pela jogadora.
+Informações do jogador
+As configurações do perfil do jogador, conforme definido na tela de configurações do app Play Games.
+Pontuações
+Detalhes das maiores pontuações armazenadas para a jogadora/o jogo em questão.
+Conquistas
+Detalhes das conquistas armazenadas para a jogadora/o jogo em questão.
+Missões
+Detalhes das missões armazenadas para a jogadora/o jogo em questão.
+Pontos de experiência
+Detalhes dos eventos de conquista de pontos de experiência armazenados para a jogadora/o jogo em questão.
+Atividade
+Detalhes da atividade (como a data do primeiro/último jogo) armazenados para a jogadora/jogo em questão.
+Imagem da capa
+PNG/JPG
+Uma imagem (geralmente uma captura de tela) gerada pelo jogo quando ele foi salvo.
+Dados.bin
+Formato original
+Os dados reais do jogo salvo
+Metadados
+Metadados associados ao jogo salvo, como data/hora, descrição etc.
+nome.bin
+Formato original
+Os dados reais do jogo salvo.
+Sequências
+Detalhes das sequências em jogos.
+Tempo de jogo
+Detalhes do tempo gasto jogando.
+Contas vinculadas no jogo
+Detalhes das contas que você vinculou ao seu perfil dos Serviços do Google Play Games para este jogo.
+Seguindo
+Detalhes dos jogadores que você segue ou pediu para seguir."
+
+- need both the JS SDK (usable on any game that want to integrate Gamlr Onchain) and Solidity smart-contracts
+- player account/ethereum address will be provided by https://github.com/plasmmer/accounts
