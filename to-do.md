@@ -90,6 +90,14 @@
 - [ ] Encrypt sensitive offchain payloads; keep only hashes onchain.
 - [ ] Build consent UX with granular replay/data toggles.
 - [ ] Add region-aware policy controls (GDPR/LGPD readiness).
+- [ ] Mapear compliance de proteção infantojuvenil para experiências sociais/play-to-earn:
+  - COPPA (EUA) + ECA (Brasil) com requisitos de idade, consentimento e moderação.
+  - Definir se Plasmmer Accounts precisam ter modo "teen-safe" obrigatório por padrão.
+  - Tratar KYC mínimo/atestado etário sem expor PII onchain.
+- [ ] Definir regras de segurança para um "Habbo Web3" (PHIland/box hoje, Habbo-like amanhã):
+  - filtros anti-grooming, anti-scam e anti-rug em chats/salas/marketplaces.
+  - limites para transações entre menores e contas recém-criadas.
+  - trilha de auditoria para mods com provas verificáveis sem vigilância abusiva.
 - [ ] Draft incident response for data abuse and false-cheat accusations.
 
 ## 9) DevEx + ecosystem adoption (P2)
@@ -113,3 +121,7 @@
 - [ ] ZK compression of event streams for low-cost integrity proofs.
 - [ ] Real-time spectator mode backed by signed incremental package deltas.
 - [ ] Cross-game reputation graph from verifiable play history.
+- [ ] Explorar arquitetura de cloud gaming + blockchain (Stadia-like sem lock-in):
+  - separar plano de render/stream (GPU edge) do plano de confiança (settlement/attestation).
+  - comparar papéis de OMG Network, EigenCloud, Golem e Tensor/TAO para compute, disponibilidade e verificação econômica.
+  - modelar latência, anti-cheat e custo por sessão para não matar UX com "descentralização cosplay".
