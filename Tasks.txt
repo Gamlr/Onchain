@@ -1,5 +1,8 @@
 for GPT Codex:
-
 - [x] web2-inspo -> web3-impl reproduzido em contrato Solidity (`contracts/GamlrOnchainRegistry.sol`) + JS SDK (`sdk/src/index.js`).
 - [x] cobertura de avatar, perfil, pontuações, conquistas, missões, XP, atividade, imagem de capa, dados.bin, metadados, nome.bin, sequências, tempo de jogo, contas vinculadas e seguindo.
 - [x] player account/ethereum address suportado via parâmetro `playerAddress` (origem esperada: https://github.com/plasmmer/accounts).
+
+repo:
+- add all of the Codex conversations
+- look at all of the commits past 20/02/2026 looking for authors' to fix
